@@ -1,70 +1,266 @@
 <div align="center">
 
-<!-- Animated wave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Rupankar%20Bhattacharjee&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18" alt="header banner" />
+<!-- ===================== ANIMATED NAME ===================== -->
 
-<br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1500&color=00BFFF&center=true&vCenter=true&width=750&lines=Rupankar+Bhattacharjee" alt="Rupankar Bhattacharjee"/>
+</a>
 
-<!-- Animated typing line -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Rupankar!;Welcome+to+my+GitHub+profile;Always+learning%2C+always+building." alt="Typing SVG" />
+<br>
 
-<br/><br/>
+<!-- ===================== ANIMATED INTRO ===================== -->
 
-<!-- Social badges -->
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-<a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=900&color=7B2FF7&center=true&vCenter=true&width=750&lines=BCA+Student+%F0%9F%8E%93;Full-Stack+Web+Developer+%F0%9F%92%BB;Programmer+%F0%9F%92%A1;Creative+Project+Builder+%F0%9F%9A%80;Always+Learning+%7C+Always+Building+%7C+Always+Improving" alt="Animated Introduction"/>
+</a>
+
+<br><br>
+
+<!-- ===================== PROFILE VIEWS ===================== -->
+
+<img src="https://komarev.com/ghpvc/?username=Rupankar-Bhattacharjee&label=PROFILE%20VIEWS&color=00BFFF&style=for-the-badge" alt="Profile Views"/>
+
+<img src="https://img.shields.io/github/followers/Rupankar-Bhattacharjee?label=FOLLOWERS&style=for-the-badge&color=7B2FF7" alt="GitHub Followers"/>
 
 </div>
 
-<br/>
+---
 
-## 👨‍💻 About Me
-
-- 🎓 Currently learning **[fill in what you're studying / focusing on]**
-- 💼 Working on **[current project / role]**
-- 🌱 Exploring **[new tech you're picking up]**
-- 💬 Ask me about **[your strong areas]**
-- ⚡ Fun fact: **[something personal / fun]**
-
-<br/>
-
-## 🛠️ Tech Stack
+# 🚀 About Me
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,git,github,figma,mongodb,mysql,docker" alt="tech stack icons"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=800&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Rupankar+Bhattacharjee+%F0%9F%91%8B;I'm+a+BCA+Student+%F0%9F%8E%93;I+love+Programming+%26+Web+Development+%F0%9F%92%BB;Currently+Learning+Full-Stack+Development+%F0%9F%9A%80;Turning+Ideas+Into+Real+Projects+%E2%9C%A8" alt="About Me Animation"/>
+</a>
 
 </div>
 
-<br/>
+<br>
 
-## 📊 GitHub Stats
+I'm **Rupankar Bhattacharjee**, a BCA student and aspiring software developer who enjoys programming, web development and building creative projects.
+
+### 👨‍💻 A Little About Me
+
+- 🎓 I'm currently pursuing **BCA**
+- 💻 Interested in **Full-Stack Web Development**
+- 🌐 Love creating **modern and responsive websites**
+- ⚛️ Learning **React.js**
+- 🟨 Improving my **JavaScript** skills
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🐙 Using **Git & GitHub**
+- 🚀 Building real-world projects
+- 🎯 My goal is to become a **Professional Full-Stack Developer**
+
+<br>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="github stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true" alt="top languages"/>
+### ⚡ Learn • Build • Debug • Deploy • Repeat ⚡
 
 </div>
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Programming Languages
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=your-github-username&theme=radical&hide_border=true" alt="streak stats"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" alt="Programming Languages"/>
 
 </div>
 
-<br/>
+---
 
-## 👀 Profile Views
+## 🌐 Web Development
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&color=2575fc&style=flat-square&label=Profile+Views" alt="profile views"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" alt="Web Development"/>
 
 </div>
 
-<br/>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" alt="footer banner"/>
+## 🗄️ Database & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman,npm,vercel" alt="Database and Tools"/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+| Technology | Progress |
+|-----------|----------|
+| 🟨 JavaScript | █████████████████░░░ 85% |
+| ⚛️ React.js | ███████████████░░░░░ 75% |
+| 🟢 Node.js | █████████████░░░░░░░ 65% |
+| 🚂 Express.js | ████████████░░░░░░░░ 60% |
+| 🍃 MongoDB | ███████████░░░░░░░░░ 55% |
+| 🧠 DSA | █████████████░░░░░░░ 65% |
+
+</div>
+
+> 📌 These percentages represent my current learning focus, not official certification levels.
+
+---
+
+# 💻 What I Like to Build
+
+<div align="center">
+
+| 🌐 Web | ⚛️ React | 🏋️ Fitness |
+|:---:|:---:|:---:|
+| Responsive Websites | React Apps | Fitness Apps |
+
+| 🎓 Education | 📊 Dashboard | 🔐 Authentication |
+|:---:|:---:|:---:|
+| Learning Platforms | Admin Panels | Login Systems |
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=Rupankar-Bhattacharjee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"
+alt="GitHub Stats"/>
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupankar-Bhattacharjee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+alt="Top Languages"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=Rupankar-Bhattacharjee&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=Rupankar-Bhattacharjee&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
+alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Rupankar-Bhattacharjee&theme=tokyo-night&hide_border=true&area=true"
+alt="GitHub Contribution Graph"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 🌐 01 — Personal Portfolio
+
+A modern developer portfolio website showcasing my:
+
+- 👨‍💻 Skills
+- 🚀 Projects
+- 📚 Technologies
+- 📞 Contact Information
+- 🎯 Developer Journey
+
+---
+
+## 🏋️ 02 — AI Fitness Web Application
+
+A modern fitness web application concept focused on providing users with an interactive fitness experience.
+
+**Technologies:**
+
+`HTML` `CSS` `JavaScript` `React`
+
+---
+
+## 🎓 03 — Education Web Application
+
+A student-focused web application designed to organize educational content and provide an easy learning experience.
+
+**Technologies:**
+
+`HTML` `CSS` `JavaScript` `React`
+
+---
+
+## 💡 04 — More Projects Coming Soon
+
+I'm continuously learning and creating new projects.
+
+⭐ Visit my repositories to see my latest work.
+
+---
+
+# 🎯 My 2026 Goals
+
+- [x] Learn Git & GitHub
+- [x] Build personal projects
+- [x] Create my developer portfolio
+- [ ] Become confident with React
+- [ ] Master JavaScript
+- [ ] Learn Node.js deeply
+- [ ] Learn REST APIs
+- [ ] Improve Data Structures & Algorithms
+- [ ] Build production-ready Full-Stack applications
+- [ ] Contribute to Open Source
+- [ ] Deploy more real-world projects
+
+---
+
+# 💡 My Developer Journey
+
+<div align="center">
+
+```text
+              💡 IDEA
+                 │
+                 ▼
+             📝 PLAN
+                 │
+                 ▼
+             💻 CODE
+                 │
+                 ▼
+             🧪 TEST
+                 │
+                 ▼
+             🐛 DEBUG
+                 │
+                 ▼
+             🚀 DEPLOY
+                 │
+                 ▼
+             📈 IMPROVE
+                 │
+                 ▼
+              🔁 REPEAT
